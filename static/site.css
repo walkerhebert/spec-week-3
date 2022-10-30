@@ -1,0 +1,20 @@
+.melon-image {
+    width: 300px;
+    height: 300px;
+}
+
+#melon-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.navbar {
+    background-color: #fa07d2 !important;
+}
+
+h1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    caret-color: transparent;
+}
